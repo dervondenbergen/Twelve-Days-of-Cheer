@@ -1,0 +1,84 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Varela Round', sans-serif;
+  color: #444;
+}
+
+body {
+  max-width: 40em;
+  margin: 0 auto;
+  width: 100%;
+  padding: 0 1em;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+.treehouse {
+  background: #333;
+  color: #f5f5f5;
+}
+
+.treehouse:hover {
+  color: #333;
+  background: transparent;
+}
+
+hr {
+  border-width: 0.5em;
+  border-style: solid;
+  border-color: #aaa;
+}
+
+section {
+  padding: 1em 0;
+}
+
+section > .name {
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+section > .name a {
+  color: #333;
+}
+
+section > .recreation {
+  width: 100%;
+  margin: 1em auto;
+}
+
+@media (max-width: 30em) {
+  
+  section > .recreation {
+    font-size: .8em;
+  }
+  
+}
+
+@media (max-width: 25em) {
+  
+  section > .recreation {
+    font-size: .6em;
+  }
+  
+}
+
+footer {
+  font-size: 0.8em;
+}
+
+.me {
+  color: #85c259;
+}
+
+footer span {
+  color: orange;
+}

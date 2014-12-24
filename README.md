@@ -1,4 +1,6 @@
 Twelve-Days-of-Cheer
 ====================
 
-@treehouse Twelve Days of Cheer icons recreated in css
+This site shows the images of the @treehouse Holiday Cheer giveaway, but only recreated in css. I'm not affiliated with Team Treehouse and did this just for fun.
+
+recreated with ☺ by @dervondenbergen
